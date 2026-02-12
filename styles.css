@@ -280,11 +280,11 @@ h2 {
 
 
 .celebration-text {
-    font-size: 3em;
+    font-size: 2em;
     color: #ff4757;
-    font-weight: bold;
+    font-weight: normal;
     margin: 30px 0;
-    animation: bounce var(--bounce-speed) infinite alternate;
+    animation: none;
     text-shadow: 2px 2px 4px rgba(255, 71, 87, 0.3);
 }
 
